@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".paises.vista.Framents.Continentes_paises_fragment"
+    android:padding="10dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.appcompat.widget.SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:iconifiedByDefault="true"
+        android:elevation="20dp"
+        android:background="@drawable/borde"
+        app:defaultQueryHint="Buscar"
+        android:id="@+id/buscador"
+
+        />
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recycler_paises"
+        android:layout_marginTop="70dp"
+        />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

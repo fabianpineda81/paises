@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:id="@+id/pais_card_view"
+
+    android:layout_marginBottom="20dp"
+     >
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:weightSum="10"
+       android:padding="20dp"
+       android:background="@drawable/borde"
+       >
+
+      <ImageView
+          android:layout_width="100dp"
+          android:id="@+id/img_map"
+          android:layout_height="100dp"
+          android:scaleType="centerCrop"
+          android:src="@drawable/mapa_adobespark"
+          android:background="@drawable/borde"
+
+
+
+
+          />
+      <LinearLayout
+          android:layout_width="0dp"
+          android:layout_weight="7.5"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:layout_marginLeft="70dp"
+          android:layout_gravity="center">
+
+         <com.google.android.material.textview.MaterialTextView
+             android:id="@+id/nombre_pais_recycler"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="10dp"
+             android:text="Colombia"
+             android:textAlignment="center"
+             android:textAppearance="@style/TextAppearance.AppCompat.Large"
+             android:textSize="20sp" />
+
+         <com.google.android.material.textview.MaterialTextView
+             android:id="@+id/capital_pais_recycler"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Bogota"
+
+             android:textAlignment="center"
+             android:textSize="15sp"
+             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+      </LinearLayout>
+
+
+
+   </LinearLayout>
+   <CheckBox
+       android:layout_width="30dp"
+       android:layout_height="30dp"
+       android:layout_gravity="right"
+       android:layout_marginTop="40dp"
+       android:layout_marginRight="20dp"
+      android:button="@drawable/estrella_favorito"
+       android:id="@+id/favorito_card"
+
+       />
+
+
+
+</com.google.android.material.card.MaterialCardView>

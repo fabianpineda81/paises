@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "296332581537",
+    "project_id": "crud-react-903d3",
+    "storage_bucket": "crud-react-903d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296332581537:android:00453f496271ad53abeee0",
+        "android_client_info": {
+          "package_name": "com.example.clinicas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296332581537-tj7hvs9du4q286nnk7fshke3cbcntluh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMlrSFXEhQrQ6uBtB7IKTuEpkaIqjdbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296332581537-tj7hvs9du4q286nnk7fshke3cbcntluh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296332581537:android:af94aad9ce99ca53abeee0",
+        "android_client_info": {
+          "package_name": "com.example.paises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296332581537-tj7hvs9du4q286nnk7fshke3cbcntluh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMlrSFXEhQrQ6uBtB7IKTuEpkaIqjdbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296332581537-tj7hvs9du4q286nnk7fshke3cbcntluh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
