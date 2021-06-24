@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e79fdfe-7997-4e6c-bbca-2905db5a114f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/java/com/example/gasolineras/Eliminar_gasolinera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/java/com/example/gasolineras/Mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/java/com/example/gasolineras/Ver_gasolineras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/java/com/example/gasolineras/Ver_todas_gasolineras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/res/layout/activity_ver_gasolineras.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/res/layout/activity_ver_mapa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/main/res/layout/fragment_mapa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gasolineras/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/Jugadores/Adapter_jugadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/Jugadores/Insertar_jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/Jugadores/Jugadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/Jugadores/Vista_jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/categorias/Adapter_categorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/categorias/Agregar_categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/categorias/Categorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/categorias/Vista_categorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/clases/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/clases/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/home/CategoriasFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/home/Fragmento_home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/java/com/example/latribuapp/home/JugadoresFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/activity_agregar_categoria.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/activity_categorias.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/activity_insertar_jugador.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/activity_vista_categorias.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/activity_vista_jugadores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/fragment_categorias.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/fragment_fragmento_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/fragment_jugadores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/recycler_categorias_layaout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/layout/recycler_jugadores_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LatribuApp2/app/src/main/res/menu/menu_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Configuracion_aplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Container_Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Fragmentos/Codigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Fragmentos/Home_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Fragmentos/Perfil_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Fragmentos/Plants__fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Home/Instrucciones_identificar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Login/Crear_cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Login/Modelo_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/Login/Modelo_usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Botton_sheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Botton_sheet_configuracion_plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_Bitmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_Glide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_camara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_dialogos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_dialogos_new_plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_notificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_permisos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_seleccionador_imagenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Manejador_toolbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Modelo_codigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/Modelo_uri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/herramientas/My_aplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/imagen_pantalla_completa/Fragment_imagen_completa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/imagen_pantalla_completa/View_pager_imagen_completa_adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/imagen_pantalla_completa/Viewpager_imagen_completa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/Adater_recycler_plantas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/Detalles_planta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/Modelo_planta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Caractaresticas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Datos_generales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Fragmento_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Fragmento_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Imagenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/Modifi_plant_manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/New_plant_container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/New_plant_fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/new_plant/New_plant_manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/reconocimiento_planta/Leer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/reconocimiento_planta/Leer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/java/com/example/MeguaPlants/plantas/reconocimiento_planta/Reconocedor_plata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/anim/fade_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/anim/fade_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/anim/slide_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/anim/slide_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/ic_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/imagen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/imagen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/imagen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/imagen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/imagen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-hdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/ic_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/imagen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/imagen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/imagen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/imagen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/imagen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-mdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/ic_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/imagen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/imagen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/imagen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/imagen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/imagen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/ic_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/imagen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/imagen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/imagen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/imagen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/imagen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxhdpi/selector_checkbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/ic_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/imagen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/imagen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/imagen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/imagen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/imagen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable-xxxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/corner_radius.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_agregar_planta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_analisis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_baseline_library_add_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_baseline_settings_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_candado.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_cerrar_sesion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_corazon_lleno.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_corazon_vacio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_editar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_eliminar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_emoji.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_envio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_galeria_de_imagenes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_hoja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_mas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_sombrero_de_la_graduacion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_sorprendido.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/ic_usuario.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/drawable/riple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_codigos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_configuracion_aplicacion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_crear_cuenta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_detalles_planta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_instrucciones_identificar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_leer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_leer2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_new_plant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/activity_viewpager2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/boottom_sheet_escoger_imagenest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/boton_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/botton_sheet_configurar_plant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_caracteristicas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_clasificacion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_datos_de_interes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_descripcion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_imagenes_plantas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/card_new_plant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/carta_agregar_coleccion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/carta_planta_no_encontrada.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_buscar_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_fragment0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_fragmento_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_fragmento_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_fragmento_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_fragmento_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_home_fragemt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_home_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_perfil_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/fragment_prueba.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/instruciones_carta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/layout_carta_planta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/layout/viejo_new_plant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/menu/menu_buscador.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/menu/menu_mi_perfil.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/menu/menu_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/menu/menu_tolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/values-v29/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication3/app/src/main/res/xml/file_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication4/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication4/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/androidTest/java/com/example/Tesis/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/java/com/example/Tesis/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/app/src/test/java/com/example/Tesis/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesis2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/Cambiar_contra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/Codigo_olvidar_contra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/Registrar_usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/java/com/example/corte1_formativa1/Ususario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-anydpi/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-anydpi/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-hdpi/ic_action_coffee2go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-hdpi/ic_help_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-mdpi/ic_action_coffee2go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-mdpi/ic_help_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xhdpi/ic_action_coffee2go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xhdpi/ic_help_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xxhdpi/ic_action_coffee2go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xxhdpi/ic_help_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xxxhdpi/ic_action_coffee2go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/drawable-xxxhdpi/ic_help_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/layout/activity_cambiar_contra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/layout/activity_codigo_olvidar_contra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/layout/content_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/values/Array.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corte1_formativa1/app/src/main/res/values/dimens.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@12559c32]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uKQ8Esw5HbJzuLlMdRpDbmYgc6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@12559c32" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-23T18:24:55.711313600Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="asset" value="rO0ABXNyADxkZS5tcHJlbmdlbWFubi5pbnRlbGxpai5wbHVnaW4uYW5kcm9pZGljb25zLm1vZGVsLkltYWdlQXNzZXQl990GqIfF7gIABkwACGNhdGVnb3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAGY29sb3JzdAAQTGphdmEvdXRpbC9MaXN0O0wABG5hbWVxAH4AAUwABHBhY2txAH4AAUwAC3Jlc29sdXRpb25zcQB+AAJMAAVzaXplc3EAfgACeHB0AAZ0b2dnbGVzcgATamF2YS51dGlsLkFycmF5TGlzdHiB0h2Zx2GdAwABSQAEc2l6ZXhwAAAAAncEAAAAAnQABWJsYWNrdAAFd2hpdGV4dAAOaWNfc3Rhcl9ib3JkZXJ0AA5tYXRlcmlhbF9pY29uc3NxAH4ABQAAAAZ3BAAAAAZ+cgA8ZGUubXByZW5nZW1hbm4uaW50ZWxsaWoucGx1Z2luLmFuZHJvaWRpY29ucy5tb2RlbC5SZXNvbHV0aW9uAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGQU5ZRFBJfnEAfgAMdAAESERQSX5xAH4ADHQABE1EUEl+cQB+AAx0AAVYSERQSX5xAH4ADHQABlhYSERQSX5xAH4ADHQAB1hYWEhEUEl4c3EAfgAFAAAABncEAAAABnQABDE2ZHB0AAQxOGRwdAAEMjRkcHQABDM2ZHB0AAQzOGRwdAAENDhkcHg=" />
+    <property name="color" value="black" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="MDPI&#10;XHDPI&#10;XXXHDPI&#10;HDPI&#10;XXHDPI" />
+    <property name="resourcesRoot" value="file://C:\Users\josed\AndroidStudioProjects\paises\app\src\main\res" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="size" value="24dp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josed\AndroidStudioProjects\paises\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="android.template.-616255193">
+      <recent name="com.example.paises.paises.vista" />
+      <recent name="com.example.paises.mapa" />
+    </key>
+    <key name="android.template.592470976">
+      <recent name="com.example.paises.paises.vista" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\josed\AndroidStudioProjects\paises\app" />
+      <recent name="C:\Users\josed\AndroidStudioProjects\paises\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="paises.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e79fdfe-7997-4e6c-bbca-2905db5a114f" name="Default Changelist" comment="" />
+      <created>1624411640835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624411640835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="130" key="#PSD" timestamp="1624556662514">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="200" y="130" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1624556662514" />
+    <state x="488" y="90" width="590" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1624556084197">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="90" width="590" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1624556084197" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624501749472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1624501749472" />
+    <state x="413" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1624550921582">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1624550921582" />
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1624489360493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1624489360493" />
+    <state x="475" y="130" key="AndroidProcessChooserDialog" timestamp="1624466221363">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="475" y="130" key="AndroidProcessChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1624466221363" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1624472466980">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1624472466980" />
+    <state width="1323" height="306" key="GridCell.Tab.0.bottom" timestamp="1624560780907">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1624560780907" />
+    <state width="1323" height="306" key="GridCell.Tab.0.center" timestamp="1624560780907">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1624560780907" />
+    <state width="1323" height="306" key="GridCell.Tab.0.left" timestamp="1624560780906">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1624560780906" />
+    <state width="1323" height="306" key="GridCell.Tab.0.right" timestamp="1624560780907">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1624560780907" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1624505218967">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1624505218967" />
+    <state x="499" y="162" key="chooseDestDirectoryDialog" timestamp="1624551741409">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="162" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1624551741409" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1624495305947">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1624495305947" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1624426649420">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1624426649420" />
+  </component>
+</project>

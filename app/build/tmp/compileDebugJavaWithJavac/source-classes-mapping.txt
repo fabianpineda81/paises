@@ -1,0 +1,50 @@
+com/example/paises/databinding/ActivityMapsBinding.java
+ com.example.paises.databinding.ActivityMapsBinding
+com/example/paises/databinding/ActivityVistaPaisBinding.java
+ com.example.paises.databinding.ActivityVistaPaisBinding
+com/example/paises/databinding/ToolbarBinding.java
+ com.example.paises.databinding.ToolbarBinding
+com/example/paises/MainActivity.java
+ com.example.paises.MainActivity
+com/example/paises/paises/vista/Vista_paises.java
+ com.example.paises.paises.vista.Vista_paises
+ com.example.paises.paises.vista.Vista_paises$1
+com/example/paises/databinding/RecyclerPaisesBinding.java
+ com.example.paises.databinding.RecyclerPaisesBinding
+com/example/paises/databinding/ActivityVistaPaisesBinding.java
+ com.example.paises.databinding.ActivityVistaPaisesBinding
+com/example/paises/BuildConfig.java
+ com.example.paises.BuildConfig
+com/example/paises/databinding/FragmentContinentesPaisesFragmentBinding.java
+ com.example.paises.databinding.FragmentContinentesPaisesFragmentBinding
+com/example/paises/databinding/ActivityMainBinding.java
+ com.example.paises.databinding.ActivityMainBinding
+com/example/paises/databinding/ActivityMapaBinding.java
+ com.example.paises.databinding.ActivityMapaBinding
+com/example/paises/paises/clases/modelos/Modelo_paises.java
+ com.example.paises.paises.clases.modelos.Modelo_paises
+ com.example.paises.paises.clases.modelos.Modelo_paises$1
+ com.example.paises.paises.clases.modelos.Modelo_paises$2
+com/example/paises/paises/clases/adaptadores/Adapter_pager_continentes.java
+ com.example.paises.paises.clases.adaptadores.Adapter_pager_continentes
+com/example/paises/paises/vista/Framents/Continentes_paises_fragment.java
+ com.example.paises.paises.vista.Framents.Continentes_paises_fragment
+ com.example.paises.paises.vista.Framents.Continentes_paises_fragment$1
+com/example/paises/paises/clases/modelos/Modelo_pais.java
+ com.example.paises.paises.clases.modelos.Modelo_pais
+ com.example.paises.paises.clases.modelos.Modelo_pais$1
+ com.example.paises.paises.clases.modelos.Modelo_pais$2
+ com.example.paises.paises.clases.modelos.Modelo_pais$3
+com/example/paises/paises/clases/adaptadores/Adapter_recycler_paises.java
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises$1
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises$Pais_view_holer
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises$Pais_view_holer$1
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises$Pais_view_holer$2
+ com.example.paises.paises.clases.adaptadores.Adapter_recycler_paises$Pais_view_holer$3
+com/example/paises/paises/vista/Vista_pais.java
+ com.example.paises.paises.vista.Vista_pais
+ com.example.paises.paises.vista.Vista_pais$1
+ com.example.paises.paises.vista.Vista_pais$2
+com/example/paises/mapa/MapsActivity.java
+ com.example.paises.mapa.MapsActivity

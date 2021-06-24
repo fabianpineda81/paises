@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">296332581537-tj7hvs9du4q286nnk7fshke3cbcntluh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">296332581537</string>
+    <string name="google_api_key" translatable="false">AIzaSyByMlrSFXEhQrQ6uBtB7IKTuEpkaIqjdbE</string>
+    <string name="google_app_id" translatable="false">1:296332581537:android:af94aad9ce99ca53abeee0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByMlrSFXEhQrQ6uBtB7IKTuEpkaIqjdbE</string>
+    <string name="google_storage_bucket" translatable="false">crud-react-903d3.appspot.com</string>
+    <string name="project_id" translatable="false">crud-react-903d3</string>
+</resources>
